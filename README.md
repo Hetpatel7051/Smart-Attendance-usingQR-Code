@@ -80,7 +80,7 @@ Planning to integrate CI/CD pipeline using GitHub Actions for automated build an
 ## 📸 Screenshots
 
 *(Add screenshots here for better presentation)*<img width="1899" height="978" alt="Screenshot 2026-04-26 183325" src="https://github.com/user-attachments/assets/5b796b69-c9d5-42ec-a72f-a5a716d9167e" />
-<img width="1899" height="978" alt="Screenshot 2026-04-26 183325" src="https://github.com/user-attachments/assets/33183c9f-debf-4109-b212-5446e09ba900" />
+<img width="1915" height="984" alt="Screenshot 2026-04-26 183338" src="https://github.com/user-attachments/assets/0e8b6ab3-e54e-48f9-af31-310b9075f2e4" />
 
 
 
