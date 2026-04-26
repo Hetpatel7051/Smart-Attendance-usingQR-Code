@@ -2,17 +2,19 @@
 
 ## 📌 Overview
 
-The **Smart Attendance System using QR Code** is a web-based application designed to automate attendance tracking using QR technology. This system reduces manual effort, improves accuracy, and provides an efficient way to manage attendance records digitally.
+The **Smart Attendance System using QR Code** is a full-stack web application designed to automate attendance tracking using QR technology.
+
+Traditional attendance systems are manual, time-consuming, and error-prone. This system replaces them with a digital solution where users scan QR codes to mark attendance instantly, improving efficiency, accuracy, and transparency. ([ResearchGate][1])
 
 ---
 
 ## 🎯 Features
 
-* ✅ QR Code-based attendance marking
-* ✅ User-friendly web interface
-* ✅ Fast and accurate attendance tracking
-* ✅ Secure data handling
-* ✅ Easy record management
+* 📱 QR Code-based attendance marking
+* ⚡ Real-time attendance tracking
+* 🧑‍💻 Simple and user-friendly interface
+* 🔐 Secure data handling
+* 📊 Easy record management
 
 ---
 
@@ -26,82 +28,99 @@ The **Smart Attendance System using QR Code** is a web-based application designe
 
 **Backend:**
 
-* Node.js *(update if different)*
+* (Update: Node.js / Python / PHP)
 
 **Database:**
 
-* MongoDB / MySQL *(update accordingly)*
+* (Update: MySQL / MongoDB / SQLite)
 
 **Tools & Technologies:**
 
 * Git & GitHub
-* Docker *(learning & implementation in progress)*
+* Docker *(containerization in progress)*
+* GitHub Actions *(CI/CD learning)*
 
 ---
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the repository
+### 1️⃣ Clone Repository
 
-<bash>
+```bash
 git clone https://github.com/Hetpatel7051/Smart-Attendance-usingQR-Code.git
 ```
 
-### 2️⃣ Navigate to the project directory
+### 2️⃣ Navigate to Project
 
-<bash>
+```bash
 cd Smart-Attendance-usingQR-Code
 ```
 
-### 3️⃣ Install dependencies
+### 3️⃣ Install Dependencies
 
-<bash>
+```bash
 npm install
 ```
 
-### 4️⃣ Run the application
+### 4️⃣ Run Application
 
-<bash>
+```bash
 npm start
 ```
 
-## 🐳 Docker (DevOps Implementation)
+---
 
-This project is being enhanced with Docker for containerization to ensure consistent deployment across different environments.
+## 🧠 System Workflow
+
+1. Admin generates a QR code
+2. Users scan QR using device
+3. Attendance is recorded automatically
+4. Data is stored and managed via web interface
+
+QR-based systems are widely used to eliminate manual errors and improve efficiency in attendance management. ([SSRN][2])
 
 ---
 
-## 🔄 CI/CD (In Progress)
+## 🐳 DevOps Implementation
 
-Planning to integrate CI/CD pipeline using GitHub Actions for automated build and deployment.
+This project demonstrates basic DevOps practices:
+
+* ✔️ Version Control using Git & GitHub
+* ✔️ Containerization using Docker *(in progress)*
+* ✔️ CI/CD pipeline using GitHub Actions *(planned)*
+* ✔️ Environment configuration *(to be implemented)*
 
 ---
 
 ## 📸 Screenshots
 
-*(Add screenshots here for better presentation)*<img width="1899" height="978" alt="Screenshot 2026-04-26 183325" src="https://github.com/user-attachments/assets/5b796b69-c9d5-42ec-a72f-a5a716d9167e" />
-<img width="1915" height="984" alt="Screenshot 2026-04-26 183338" src="https://github.com/user-attachments/assets/0e8b6ab3-e54e-48f9-af31-310b9075f2e4" />
+<img width="1915" height="984" alt="Screenshot 2026-04-26 183338" src="https://github.com/user-attachments/assets/7a68d48f-fd5f-4475-8b80-ec26490df6b4" />
+<img width="1899" height="978" alt="Screenshot 2026-04-26 183325" src="https://github.com/user-attachments/assets/a7a56c23-b716-4c52-8a73-05e4fcee4372" />
+<img width="1910" height="951" alt="Screenshot 2026-04-26 183348" src="https://github.com/user-attachments/assets/ac07b41f-1711-4c6a-96e0-aec8c4ba01d9" />
 
 
+```markdown
+<img width="1899" height="978" alt="Screenshot 2026-04-26 183325" src="https://github.com/user-attachments/assets/df463495-293b-45d7-ae9e-427e9134079e" />
 
-Example:
-Markdown :- Homepage
-
-<img width="1899" height="978" alt="Screenshot 2026-04-26 183325" src="https://github.com/user-attachments/assets/7fff838d-1e69-4b33-aed6-1e6ae383b4dd" />
-
-```
 
 ---
-📈 Future Enhancements
-☁️ Cloud deployment (AWS / Render / Railway)
-🔄 Full CI/CD pipeline integration
-🔐 Enhanced authentication & security
-📊 Analytics dashboard for attendance
-👨‍💻 Author
 
-Het Patel
-🔗 GitHub: https://github.com/Hetpatel7051
+## 📈 Future Enhancements
 
-📜 License
+* ☁️ Cloud deployment (AWS / Render / Railway)
+* 🔄 Full CI/CD pipeline automation
+* 🔐 Authentication & role-based access
+* 📊 Analytics dashboard
 
-This project is for educational purposes and learning use.
+---
+
+## 👨‍💻 Author
+
+**Het Patel**
+🔗 https://github.com/Hetpatel7051
+
+---
+
+## 📜 License
+
+This project is developed for educational and learning purposes.
