@@ -119,6 +119,10 @@ This project demonstrates basic DevOps practices:
 **Het Patel**
 🔗 https://github.com/Hetpatel7051
 
+## 🐳 Run using Docker
+docker build -t attendance-app .
+docker run -p 3000:3000 attendance-app
+
 ---
 
 ## 📜 License
