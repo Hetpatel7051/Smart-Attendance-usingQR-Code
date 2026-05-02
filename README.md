@@ -119,6 +119,15 @@ This project demonstrates basic DevOps practices:
 **Het Patel**
 🔗 https://github.com/Hetpatel7051
 
+### 👨‍💻 Backend Contributor
+
+**Ansh Patel**
+* Backend Development  
+* MongoDB Schema Design  
+* Authentication & API Integration  
+🔗 https://github.com/Patelanshsk
+
+
 ## 🐳 Run using Docker
 docker build -t attendance-app .
 docker run -p 3000:3000 attendance-app
@@ -128,3 +137,5 @@ docker run -p 3000:3000 attendance-app
 ## 📜 License
 
 This project is developed for educational and learning purposes.
+
+
